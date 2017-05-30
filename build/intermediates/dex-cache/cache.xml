@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mayank Rawal\.android\build-cache\226bd4892bbe938169d1d5aa0aa76a453f70abd0\output\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Mayank Rawal\Desktop\GoogleAndroidWorkshop\ghost_starter\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_c51d9e0f559a14870f1ab7c19b402cc5ca73f4fe.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mayank Rawal\Desktop\GoogleAndroidWorkshop\ghost_starter\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\Mayank Rawal\Desktop\GoogleAndroidWorkshop\ghost_starter\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_f47cc0d9a64eb196b57d766eb3e9dacb6b26ceda\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mayank Rawal\.android\build-cache\d10e8ab6bb66640368cdb2e975eafcd433dae8d7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Mayank Rawal\Desktop\GoogleAndroidWorkshop\ghost_starter\app\build\intermediates\pre-dexed\debug\classes_9d14f5ee914ac39b5ba33b2a533397292954c21a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mayank Rawal\.android\build-cache\802106c93c62b4f04a5286a93144443cf0170f29\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Mayank Rawal\Desktop\GoogleAndroidWorkshop\ghost_starter\app\build\intermediates\pre-dexed\debug\classes_c4ed305d4796bcd93a83965d918aaf805d23c558.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mayank Rawal\Desktop\GoogleAndroidWorkshop\ghost_starter\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="13064f9efd906c87f60229cde48a70da7315ca56">
+        <dex dex="C:\Users\Mayank Rawal\Desktop\GoogleAndroidWorkshop\ghost_starter\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_2c4fdeca95d9fd061246d163a0c98bf441ed219d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mayank Rawal\.android\build-cache\226bd4892bbe938169d1d5aa0aa76a453f70abd0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Mayank Rawal\Desktop\GoogleAndroidWorkshop\ghost_starter\app\build\intermediates\pre-dexed\debug\classes_d41c9dfa22ff97877dbcdf618ea3d7716ea38f55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mayank Rawal\.android\build-cache\7149a1109cc3061b821cab401c0ef2e4d2a5bdbf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Mayank Rawal\Desktop\GoogleAndroidWorkshop\ghost_starter\app\build\intermediates\pre-dexed\debug\classes_23fdf7364fe323cce888e91674fc7b9f45504b64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Mayank Rawal\Desktop\GoogleAndroidWorkshop\ghost_starter\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_fc18a0fdc80391aaf9a93e629f1a6f03cf6a9cf4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mayank Rawal\.android\build-cache\cdb5a3d3bb2617703a33fdc854154e81c8b1a3c4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\Mayank Rawal\Desktop\GoogleAndroidWorkshop\ghost_starter\app\build\intermediates\pre-dexed\debug\classes_0b83374f2b720afc96832e4af8ad4714ba19a2c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mayank Rawal\.android\build-cache\39c9bf10d7738e439fbd9d53c44db0bda3f94179\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\Mayank Rawal\Desktop\GoogleAndroidWorkshop\ghost_starter\app\build\intermediates\pre-dexed\debug\classes_70cf05992cbadf7f9a76f92f01fec204c0ea470c.jar" />
+    </item>
+
+</items>
